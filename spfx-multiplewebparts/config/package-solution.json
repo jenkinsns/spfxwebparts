@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "name": "spfx-multiplewebparts-client-side-solution",
+    "id": "55445321-8745-42e2-a68e-71845a79c0ed",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "spfx-multiplewebparts.spapp"
+  }
+}

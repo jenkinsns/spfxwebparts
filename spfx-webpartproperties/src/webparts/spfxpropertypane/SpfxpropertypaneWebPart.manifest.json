@@ -1,0 +1,19 @@
+{
+  "$schema": "../../../node_modules/@microsoft/sp-module-interfaces/lib/manifestSchemas/jsonSchemas/clientSideComponentManifestSchema.json",
+
+  "id": "16f90ae0-339e-4195-89fa-485ff68e6f91",
+  "componentType": "WebPart",
+  "version": "0.0.1",
+  "manifestVersion": 2,
+
+  "preconfiguredEntries": [{
+    "groupId": "16f90ae0-339e-4195-89fa-485ff68e6f91",
+    "group": { "default": "Under Development" },
+    "title": { "default": "Spfxpropertypane" },
+    "description": { "default": "spfxpropertypane description" },
+    "officeFabricIconFontName": "Page",
+    "properties": {
+      "description": "Spfxpropertypane"
+    }
+  }]
+}
